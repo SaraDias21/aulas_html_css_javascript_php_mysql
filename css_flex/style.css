@@ -40,7 +40,21 @@ https://www.flexboxdefense.com
     padding: 16px;
     height: 500px;
 }
+:root {
+    --tamanho: 50px;
+    --altura: 25px;
+    --titulo_principal: 40px;
+    --titulo_secundario:45px;
+    --texto: 30px;
+    --texto_secundario: 25px;
+    --preenchimento: 20px;
+    --corFundoUm: ;
+    --corFundoDois: ;
+    --corFundoTres: ;
+    --corFundoQuatro: ;
+    
 
+}
 .bloco-1 {
     background-color: aquamarine;
     padding: 15px;
